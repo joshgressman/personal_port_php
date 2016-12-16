@@ -1,9 +1,10 @@
 <?php
 require('header.php');
 
-require('main.php');
+require('bio.php');
+
+require('gallery.php');
 
 require('footer.php');
-
 
 ?>
