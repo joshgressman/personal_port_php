@@ -1,9 +1,11 @@
 
 <div class="container">
 <footer>
-    <nav>
-      footer content
-    </nav>
+  <div class="container" >
+
+  footer content
+
+  </div>
 </footer>
 </div>
 </body>
