@@ -1,12 +1,10 @@
 
-<div class="container">
-<footer>
-  <div class="container" >
-
-  footer content
-
+<!-- <footer> -->
+  
+    <div class="row">
+      <div class="col-md-12" id="footerDiv">
+      </div>
   </div>
-</footer>
-</div>
+<!-- </footer> -->
 </body>
 </html>

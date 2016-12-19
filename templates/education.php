@@ -1,6 +1,6 @@
 <?php include "templates/header.php"; ?>
 
-<div class ="container" id="educationSection">
+
   <div class="row">
     <div class="col-md-8" id="educationDiv">
       <h2>Education</h2>
@@ -17,4 +17,3 @@
 
   </div>
   </div>
-</div>

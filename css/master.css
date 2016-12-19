@@ -17,7 +17,7 @@ header {
 
 }
 
-#bioSection {
+#bioRow {
   width: 100%;
   /*margin-top: 10px;*/
   margin-left: 0;
@@ -76,6 +76,7 @@ margin: 10px 50px 0 20px;
   border: solid 2px black;
 }
 
-footer {
-  
+#footerDiv {
+  height: 200px;
+  background-color: lightgray;
 }

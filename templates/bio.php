@@ -1,8 +1,6 @@
 <?php include "templates/header.php"; ?>
-<main>
-<div class ="container" id="bioSection">
-  <div class="row">
-    <div class="col-md-8" id="bioDiv">
+  <div class="row" id="bioRow">
+    <div class="col-md-7" id="bioDiv">
       <h2>About</h2>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -14,7 +12,6 @@
 
     </div>
    <div class="col-md-4" id="bioimg">
-     <img src="../img/port2.jpg" alt="Bio Picture" style="width:300px;height:300px; border-radius:150px;">
+     <img src="../img/port2.jpg" alt="Bio Picture" style="width:240px;height:240px; border-radius:120px;">
   </div>
   </div>
-</div>
