@@ -12,6 +12,6 @@
 
     </div>
    <div class="col-md-4" id="bioimg">
-     <img src="../img/port2.jpg" alt="Bio Picture" style="width:240px;height:240px; border-radius:120px;">
+     <img src="../img/port2.jpg" alt="Bio Picture" style="width:300px;height:300px; border-radius:150px;">
   </div>
   </div>

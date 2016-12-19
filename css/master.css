@@ -20,8 +20,7 @@ header {
 #bioRow {
   width: 100%;
   /*margin-top: 10px;*/
-  margin-left: 0;
-  margin-right: 0;
+  margin: 0 0 0 0;
   /*height: 440px;*/
   background: url(../img/tree.jpg) no-repeat center center fixed;
     -webkit-background-size: cover; /* For WebKit*/
@@ -31,24 +30,11 @@ header {
     opacity: 0.8;
 }
 
-
-
-#headerInfo{
-  padding-top: 120px;
-
+#bioimg {
+margin: 50px 0 0 20px;
 }
 
-#headerTitle{
-  margin-left: 75px;
-
-}
-
-#bioimg{
-
-
-}
-
-#bioDiv{
+#bioDiv {
 background-color: rgba(0, 0 ,0 , .7);
 color: white;
 height: 400px;
@@ -59,24 +45,21 @@ margin: 10px 50px 0 20px;
 
 
 
-#gellerySection{
-  width: 100%;
-
-  /*margin-top: 10px;*/
-  margin-left: 0;
-  margin-right: 0;
+#gellerySection {
 
 }
 
-
-
 #galleryImage {
   height: 200px;
-  margin-right: 5px;
-  border: solid 2px black;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 #footerDiv {
   height: 200px;
   background-color: lightgray;
+}
+
+#titleContainer {
+  text-align: center;
+  margin-top: 150px;
 }

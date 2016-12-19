@@ -19,16 +19,16 @@
   <header>
     <div class="container">
     <div class = "row" id="headerInfo">
-      <div class="col-md-4">
+      <div class="col-md-3">
 
       </div>
-      <div class="col-md-4" id="titleContainer">
+      <div class="col-md-6" id="titleContainer">
       <h1 id="headerTitle">Joshua Gressman</h1>
       <h3 id="header3">Front End Developer / Software Engineer</h3>
       <h4>joshgressman@gmail.com / https://github.com/joshgressman </h4>
       <h4>Together we can bring your vision to reality</h4>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-3">
       </div>
     </div>
   </header>
