@@ -8,6 +8,7 @@
     <meta name="description" content="Joshua Gressman Personal Portfolio">
     <meta name="author" content="Joshua Gressman">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="refresh" content="20"  />
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/master.css">
     <script src="../scripts/jquery-3.1.1.min.js"></script>

@@ -28,10 +28,11 @@ header {
     -o-background-size: cover;      /* Opera*/
     background-size: cover;         /* Generic*/
     opacity: 0.8;
+    padding: 0 0 10px 0 ;
 }
 
 #bioimg {
-margin: 50px 0 0 20px;
+margin: 50px 0 0 60px;
 }
 
 #bioDiv {
@@ -45,14 +46,17 @@ margin: 10px 50px 0 20px;
 
 
 
-#gellerySection {
+#theSection {
 
 }
 
 #galleryImage {
   height: 200px;
-  box-shadow: 10px 10px 5px #888888;
+  border: solid 1px black;
+  padding: 1px 1px 1px 1px;
+  margin: 0 0 0 0;
 }
+
 
 #footerDiv {
   height: 200px;
@@ -67,4 +71,51 @@ margin: 10px 50px 0 20px;
 #imageInfo {
 height: 200px;
 
+}
+
+
+#galleryDescription1 {
+  display: none;
+  height: 200px;
+  background-color: rgba(0, 0 ,0 , .1);
+
+}
+
+#galleryDescription2 {
+  display: none;
+  height: 200px;
+  background-color: rgba(0, 0 ,0 , .1);
+
+}
+
+#galleryDescription3 {
+  display: none;
+  height: 200px;
+  background-color: rgba(0, 0 ,0 , .1);
+
+}
+
+#galleryDescription4 {
+  display: none;
+  height: 200px;
+  background-color: red;
+
+}
+
+#galleryDescription5 {
+  display: none;
+  height: 200px;
+  background-color: rgba(0, 0 ,0 , .1);
+
+}
+
+#galleryDescription6 {
+  display: none;
+  height: 200px;
+  background-color: rgba(0, 0 ,0 , .1);
+
+}
+
+#educationDiv {
+  height: 400px;
 }
