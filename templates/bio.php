@@ -1,6 +1,6 @@
 <?php include "templates/header.php"; ?>
   <div class="row" id="bioRow">
-    <div class="col-md-7" id="bioDiv">
+    <div class="col-md-6" id="bioDiv">
       <h2>About</h2>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -11,7 +11,7 @@
        PageMaker including versions of Lorem Ipsum.</p>
 
     </div>
-   <div class="col-md-4" id="bioimg">
-     <img src="../img/port2.jpg" alt="Bio Picture" style="width:300px;height:300px; border-radius:150px;">
+   <div class="col-md-5" id="bioimg">
+     <img src="../img/port2.jpg" alt="Bio Picture" style="width:400px;height:400px; border-radius:60px;">
   </div>
   </div>

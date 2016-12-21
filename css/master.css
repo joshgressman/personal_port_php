@@ -21,22 +21,24 @@ header {
   width: 100%;
   /*margin-top: 10px;*/
   margin: 0 0 0 0;
-  /*height: 440px;*/
-  background: url(../img/tree.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover; /* For WebKit*/
-    -moz-background-size: cover;    /* Mozilla*/
-    -o-background-size: cover;      /* Opera*/
-    background-size: cover;         /* Generic*/
-    opacity: 0.8;
-    padding: 0 0 10px 0 ;
+
+
+  height: 440px;
+  /*background: url(../img/tree.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.8;*/
+    padding: 0 0 10px 110px ;
 }
 
 #bioimg {
-margin: 50px 0 0 60px;
+margin: 10px 0 0 40px;
 }
 
 #bioDiv {
-background-color: rgba(0, 0 ,0 , .7);
+background-color:  #ADD8E6;
 color: white;
 height: 400px;
 border-radius: 60px;
@@ -60,7 +62,7 @@ margin: 10px 50px 0 20px;
 
 #footerDiv {
   height: 200px;
-  background-color: lightgray;
+  background-color: black;
 }
 
 #titleContainer {
